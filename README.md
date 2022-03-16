@@ -5,7 +5,7 @@
 
 ## Web의 기본 3가지 요소
 + URI
-++ Uniform Resource Identifier
-++ 리소스 식별자
-+++ 특정 사이트, 특정 쇼핑 목록
-++ 모든 정보에 접근 할 수 있는 정보
++ Uniform Resource Identifier 
++ 리소스 식별자 
++ 특정 사이트, 특정 쇼핑 목록 
++ 모든 정보에 접근 할 수 있는 정보 
